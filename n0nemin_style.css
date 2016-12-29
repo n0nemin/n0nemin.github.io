@@ -1,10 +1,10 @@
 body {
-    background-color: #003366;
+	background-color: #003366;
 }
 
 h1 {
-    color: #0080ff;
-    text-align: center;
+	color: #0080ff;
+	text-align: center;
 	font-family: monospace;
 	font-size: 32px;
 	font-style: normal;
@@ -14,8 +14,8 @@ h1 {
 }
 
 h3 {
-    color: #b3d9ff;
-    text-align: center;
+	color: #b3d9ff;
+	text-align: center;
 	font-family: monospace;
 	font-size: 16px;
 	font-style: normal;
